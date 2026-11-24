@@ -1,11 +1,13 @@
 # Working title: Don't fight for the leisure slot
 
-Alternates: "Your product competes with sleep" / "Different time, different budget"
+Alternates: "Show up where other things are not" / "Your product competes with sleep" / "Different time, different budget"
 
 **From:** topics/fitting-into-someones-life.md
-**Status:** early. Only one part of the dump so far; more expected.
+**Status:** early. Two parts of the dump so far.
 
 ## Thesis (draft)
+> "Show up in a place where other things are not, and then deliver something that people actually care about." (Natan, part 2)
+
 Every product has to fit into someone's life. Entertainment fights over one crowded leisure slot, where social convergence hands most of the time to a few winners. Products that solve a specific pain point for a specific group can draw on a different budget: time people set aside because the goal matters to them.
 
 ## Possible structure
@@ -13,8 +15,10 @@ Every product has to fit into someone's life. Entertainment fights over one crow
 2. The leisure slot: games, video and doomscrolling all fight for the same hours
 3. Why winners take most: social convergence and tribal validation
 4. The other budget: goal-driven time (the sign-language example)
-5. The catch: niches still have competitors, and goal-driven motivation decays
-6. (Possible link) How this connects to jagged differentiation: where you compete vs. how you stand out
+5. Hardware as a complement, not a substitute: the Tamagotchi on your bag
+6. A slot is purpose, place and social context, not just category
+7. The catch: niches still have competitors, and goal-driven motivation decays
+8. (Possible link) How this connects to jagged differentiation: where you compete vs. how you stand out
 
 ## What's missing
 - The fresh angle needs stating outright. "Products compete for time" is familiar; "goal time is a separate budget" is the new part.
