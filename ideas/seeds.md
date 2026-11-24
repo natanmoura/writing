@@ -14,6 +14,7 @@ Originality ratings are Claude's judgment: **[Fresh]** means I haven't seen it a
 - **Claim:** Using AI in the layer that differentiates your product is fine if the result is exceptional. The real danger is that AI-sourced knowledge and output default to the consensus answer, and consensus can't differentiate.
 - **Why it's non-obvious:** The AI debate is usually framed as "which jobs does AI replace?" This reframes it as "what does AI do to the *distinctiveness* of what you make?" The risk isn't low quality, it's averageness.
 - **Best example:** Asking an AI what makes game feel good and implementing the answer gets you the industry-standard version, which is fine for an adequate layer and fatal for the differentiating one.
+- **Industry-level version (part 9):** when everyone uses the same tools, thousands of small defaults converge across the whole market. That's "convergence by micro-decision."
 - **Needs:** One concrete case of a product that went generic this way. Also the mechanism stated precisely: models are trained toward aggregate preference, and taste is one perspective's "I like this, not that."
 - **Source:** topics/jagged-differentiation.md (parts 6–7)
 
@@ -35,6 +36,7 @@ Originality ratings are Claude's judgment: **[Fresh]** means I haven't seen it a
 - **Claim:** Because the layer that matters is different for every product, craft specialists survive where their layer is the differentiator. But studios often can't tell which layer that is before shipping, so these roles become precarious rather than clearly safe or clearly replaced.
 - **Why it's non-obvious:** Most takes say either "craft is dead" or "craft is safe." This says the risk depends on each product and is hard to predict.
 - **Best example:** A gun-feel animator is essential on *Overwatch* and dispensable on a narrative game.
+- **Sharpened by part 9:** top studios keep craft to protect franchises, and the middle hollows out. So craft work concentrates at the top, with fewer, more competitive seats.
 - **Needs:** Natan's own experience of how studios decide which roles to cut. This answers the question the dump started with.
 - **Source:** Claude's synthesis of topics/jagged-differentiation.md (flaw 2)
 
@@ -51,11 +53,18 @@ Originality ratings are Claude's judgment: **[Fresh]** means I haven't seen it a
 
 *Four parts of material in topics/fitting-into-someones-life.md.*
 
+### B0. Reframe the category, and you change the budget it competes with [Fresh]
+- **Claim:** A Friend Slop game pitched as "a night in instead of a night out" competes with a restaurant dinner, not with other games. The same product looks cheap next to the new anchor.
+- **Why it's non-obvious:** The usual advice is to pick a better category. This says you can move an existing product into a different category through framing alone, and the price anchor moves with it.
+- **Best example:** Friend Slop games vs. a restaurant dinner with friends.
+- **Needs:** Evidence that players actually think about it this way, and an explanation of why the night-in slot is less contested than the game slot.
+- **Source:** topics/fitting-into-someones-life.md (part 5)
+
 ### B1. A slot is purpose, place and social context, not just category [Fresh]
 - **Claim:** Products don't just compete within categories or for time. They compete for a specific combination of *why* (leisure vs. goal), *where* (couch vs. on the go) and *with whom* (alone vs. shown off). Change any one and you may be out of the crowded slot.
 - **Why it's non-obvious:** Time-slot thinking usually treats all leisure time as one pool. A Tamagotchi is still leisure, but it wins because of place and social context.
-- **Best example:** A Tamagotchi on a bag vs. a game in the evening.
-- **Needs:** A second example outside toys.
+- **Best example:** A Tamagotchi on a bag vs. a game in the evening. Second example: Friend Slop reframed as a night in (B0).
+- **Needs:** One example outside games and toys.
 - **Source:** topics/fitting-into-someones-life.md (parts 1–2)
 
 ### B2. Compete for moments, not hours: time spent is the wrong metric [Fresh]
@@ -99,4 +108,4 @@ Originality ratings are Claude's judgment: **[Fresh]** means I haven't seen it a
 
 It has the most material, the most original seeds (A1, A2, A4) and an existing outline. Lead with **A1 (the consensus pull)**, use **A2 and A3** as the evidence, and close with **A4 (what it means for craft jobs)**, which answers the question you started with. A5 and C1 can be a final section or a follow-up piece.
 
-B is the strongest second article, built on B1 and B2. The high-ticket material mostly feeds A5 rather than standing alone.
+B is the strongest second article, built on B0, B1 and B2. The high-ticket material mostly feeds A5 rather than standing alone.

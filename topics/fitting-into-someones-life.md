@@ -53,9 +53,19 @@ Every product, digital or not, has to fit into someone's life, so it's competing
 - The Tamagotchi played on "negative human psychologies," the fear the pet will die, which may have driven the fad. But "a small digital friend that you can take with you" holds "seeds for many other products."
 - **Recombination:** when new technology arrives, combining it with something else creates something new. Ideas: digital pets as a kind of social network, a game-like layer that creates network effects, more user-generated content. (The user-generated content thread continues in topics/product-as-creative-tool.md.)
 
+### Reframing the category: Friend Slop vs. a restaurant (part 5)
+- A one-evening game is "almost like going to a restaurant." Friends can go out to dinner, or "all pay the same amount of money, buy a game, chill, and have a little experience together."
+- Recontextualized, a Friend Slop game shows up "almost in a different category." It replaces "hang out with people at a restaurant," not "when I would normally play games."
+- "That's like a perception reframe of a category that... can make the value proposition sound better."
+
+### Price expectations shift
+- "Years ago, no one was paying like $10 for an app or monthly subscriptions," and now many apps do. "Maybe it was the ChatGPT subscription that kind of moved the needle."
+- "The Overton window has shifted in terms of pricing." Prices can move depending on "what categories we start viewing as valuable, or in what time slot in our life we start using certain things for."
+
 ## Examples and anecdotes
 - Sign-language learning app (niche, goal-driven).
 - Tamagotchi-style keychain toy, alarm clock (hardware as an addition, not a substitute).
+- Friend Slop games framed as a night in instead of a night out. ("Friend Slot" in the raw dump is a dictation slip for Friend Slop.)
 - Luxury watch worn once a year (value from collecting and community, not use time).
 - Premium alarm clocks: Hatch Restore, Loftie (suggested in chat; real examples supporting the alarm-clock point).
 - Netflix / YouTube / games / doomscrolling as competitors for the same slot.
@@ -88,3 +98,6 @@ Every product, digital or not, has to fit into someone's life, so it's competing
 - *[Claude]* **There's a sharp, separate angle here: time spent is the wrong metric.** Much of the industry optimizes for engagement hours. Part 3 implies that value per moment, not hours captured, is what people pay for. That's a counter-position worth stating directly.
 - *[Claude]* **"Marketing is differentiation" conflates being different with being noticed** (also raised in chat). Showing up differently gets attention, but that's distribution. Whether the difference is one people care about is the jagged-differentiation question. Keep the two apart.
 - *[Claude]* **"Every gimmick holds a seed" is hindsight-friendly.** After the fact, you can find a seed in anything. The useful version: which part of the gimmick met a real, lasting motivation (portable companionship) and which part was novelty or manipulation (the fear of it dying)? That's a test you can apply before building.
+- *[Claude]* **The restaurant reframe is the freshest idea in this topic** (also raised in chat). It also gives B1 its missing second example: the same game moves slots by changing the *social context and the budget* it draws from. The mechanism is price anchoring. Next to a $40 dinner, a $10 game looks cheap; next to other games, it looks like shovelware.
+- *[Claude]* **The new slot is crowded too.** A night in with friends also competes with streaming together, board games and just going out. The reframe gets you out of the game slot, not out of competition. Say which slot you're moving into and why it's less contested.
+- *[Claude]* **"ChatGPT moved the needle" is a guess** (also raised in chat). Subscription apps were common well before it [Certain]. Drop it, or turn it into a question.

@@ -1,7 +1,7 @@
 # Jagged differentiation: deciding what matters in a product
 
 **Source:** raw/2026-11-24-jagged-differentiation.md
-**Related:** topics/fitting-into-someones-life.md, topics/high-ticket-and-signaling.md, topics/product-as-creative-tool.md (one dump, eight parts; "part N" below refers to those sections)
+**Related:** topics/fitting-into-someones-life.md, topics/high-ticket-and-signaling.md, topics/product-as-creative-tool.md (one dump, nine parts; "part N" below refers to those sections)
 
 ## Core idea
 A product succeeds by being different along some dimension that enough buyers care about, and which dimension that is varies by product. It can be any layer, from lore and vibe down to the kickback of a gun. So AI's effect on product-making is jagged: it hollows out what a given product only needs to be adequate at. In the layer that differentiates the product, using AI is fine only if the result is exceptional, and the real risk is AI's pull toward the consensus answer. Deciding what matters, and having the taste and the team to execute it, is the skill that matters most.
@@ -37,6 +37,16 @@ Team composition and restraint/taste are part of this one idea, as subsections b
 - **Specificity comes from perspective:** "a perspective, or a collective group of people that are really honing in on a perspective."
 - **The LLM problem, as Natan puts it:** LLMs "codify language," and much of what we like in games can't be articulated. AI can now sometimes derive the logic behind game feel from video, but asked why a design is good, "it doesn't have a perspective."
 - **Adequacy layers:** in some games the low-level work "mostly needs to be adequate. Can't be broken, but it doesn't need to be revolutionary." Those layers are where automation saves time.
+
+### Winner-take-all: why top studios keep craft (part 9)
+- Returns follow a Pareto distribution. Top games earn so much that paying millions for handmade craft is worth it to protect "a reputation or a franchise." Cutting corners risks losing far more.
+- AI tools can help, but top studios must be "very discerning about not losing the quality."
+- **Convergence by micro-decision:** "if other people are using AI tools, then by them dipping into the AI tools as well, they are actually becoming more like the crowd." "All these micro decisions, they start converging on everything else that's out there."
+- Natan's own caveat: "maybe that's only true for franchises."
+- Demand is limited ("only a certain amount of games that make money in a year"), so with more games, the winners "are still going to be the ones that are the highest quality."
+- The open bet: "does AI produce good enough quality that no one would notice?"
+- **The middle hollows out**: indies and corner-cutters, though some will use AI "intelligently" to scale, and there will be "some massive hits as a result."
+- **Retention is the judge:** players may try a game, but "do they come back day 2, 3, 4, 5, 6?" Without retention, it's "a flash in the pan."
 
 ### Restraint and taste
 - "It's not just about going more quality on everything. Sometimes the differentiation is actually the limitation."
@@ -81,6 +91,7 @@ Team composition and restraint/taste are part of this one idea, as subsections b
 - **vs. "we won't know why it won" (dump part 4).** If success is often misattributed, a track record is a noisy signal of discernment. Luck and skill are hard to separate over a handful of releases.
 
 ## Open questions
+- Does the Pareto incentive protect craft only at franchises, or also for new games aiming for the top?
 - How does a creator find their differentiator *before* shipping? Indie failures suggest people often guess wrong. (Partial answer from part 3: look at what the player does most often.)
 - Is "adequate" a fixed bar? If AI makes polish cheap for everyone, the floor for "adequate" may rise.
 - Does this generalize beyond games? Scope part 1 said "product making" broadly, while part 2 is all games.
@@ -110,3 +121,6 @@ Team composition and restraint/taste are part of this one idea, as subsections b
 - *[Claude]* Taste as "I like this, I don't like that" is a clean definition, and it explains why consensus output fails: an average of everyone's preferences is nobody's preference. Worth making this the hinge between this topic and the AI argument.
 - *[Claude]* The link to the AI argument is implied, not stated. The strongest version could be: "cutting a role to AI removes a sensibility from the room, not just a task from the pipeline." That's my framing; confirm or reject.
 - *[Claude]* The world-builder example is about *missing expertise*, which is a different claim from *non-linear chemistry*. Both are in this dump. Keep them apart or the argument blurs.
+- *[Claude]* **Top studios already automate a lot** (also raised in chat): procedural tools, middleware, outsourcing. So the incentive argument holds only while AI output is *detectably* worse. Natan's own question ("does AI produce good enough quality that no one would notice?") is the hinge. The piece should treat it as the deciding variable, not a side note.
+- *[Claude]* **"Convergence by micro-decision" strengthens seed A1.** A1 was about one team drifting toward consensus. Part 9 scales it up: when everyone uses the same tools, thousands of small defaults converge across the whole industry. That's an industry-level homogenization argument, and it's more original than the Pareto point itself.
+- *[Claude]* **Part 9 sharpens A4 (precarious craft jobs).** If top studios keep craft and the middle hollows, craft work doesn't disappear. It concentrates at the top, where there are few seats. Precarity comes from fewer, more competitive jobs, not from no jobs.
