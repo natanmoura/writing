@@ -19,6 +19,7 @@ Rough thinking space. Nothing here is finished writing.
 
 ## Rules
 
+- One continuous dump goes in one raw file, even if it arrives as several messages. Topics stay broad: related threads become subsections, not new files.
 - Raw dumps are the source of truth. Organizing never deletes or rewrites them.
 - Topic notes keep Natan's phrasing where it's distinctive; Claude marks its own additions or inferences.
 - Contradictions between dumps are kept and flagged, not smoothed over.
