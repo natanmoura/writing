@@ -1,7 +1,7 @@
 # Fitting into someone's life: competing for time
 
 **Source:** raw/2026-11-24-fitting-into-someones-life.md
-**Related:** topics/jagged-differentiation.md
+**Related:** topics/jagged-differentiation.md, topics/high-ticket-and-signaling.md
 
 ## Core idea
 Every product, digital or not, has to fit into someone's life, so it's competing for a slice of their time. Entertainment (games, movies, YouTube, doomscrolling) all fights over the same leisure slot, where winners take most and people converge socially on the same few things. Products that solve a specific pain point for a specific group can step outside that slot. The audience is smaller, but the product draws on time people set aside for something that matters to them.
