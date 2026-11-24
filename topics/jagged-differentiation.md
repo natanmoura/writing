@@ -1,7 +1,7 @@
 # Jagged differentiation: deciding what matters in a product
 
 **Source:** raw/2026-11-24-jagged-differentiation.md
-**Related:** topics/fitting-into-someones-life.md, topics/high-ticket-and-signaling.md (one dump, eight parts; "part N" below refers to those sections)
+**Related:** topics/fitting-into-someones-life.md, topics/high-ticket-and-signaling.md, topics/product-as-creative-tool.md (one dump, eight parts; "part N" below refers to those sections)
 
 ## Core idea
 A product succeeds by being different along some dimension that enough buyers care about, and which dimension that is varies by product. It can be any layer, from lore and vibe down to the kickback of a gun. So AI's effect on product-making is jagged: it hollows out what a given product only needs to be adequate at. In the layer that differentiates the product, using AI is fine only if the result is exceptional, and the real risk is AI's pull toward the consensus answer. Deciding what matters, and having the taste and the team to execute it, is the skill that matters most.

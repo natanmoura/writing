@@ -1,7 +1,7 @@
 # Fitting into someone's life: competing for time
 
 **Source:** raw/2026-11-24-fitting-into-someones-life.md
-**Related:** topics/jagged-differentiation.md, topics/high-ticket-and-signaling.md
+**Related:** topics/jagged-differentiation.md, topics/high-ticket-and-signaling.md, topics/product-as-creative-tool.md
 
 ## Core idea
 **Thesis, in Natan's words:** "You want to show up in a place where other things are not, and then deliver something that people actually care about."
@@ -46,6 +46,13 @@ Every product, digital or not, has to fit into someone's life, so it's competing
 - Many categories have no "delightful or unique or good experiences," and "the market has not even signaled that they want something high quality in that area."
 - "That is the work of entrepreneurs": finding underexplored categories "that people actually value quite a lot" and whether something can be delivered there.
 
+### Getting noticed vs. staying
+- "Marketing is differentiation." Showing up unlike anyone else gets you noticed, and that newness is where the entrepreneurial risk is.
+- "Getting noticed is one thing. Staying around is a different thing." Gimmicks "show up uniquely in a category. They win, and they're forgotten."
+- "Even in a gimmick, there is often a seed of something yet to come."
+- The Tamagotchi played on "negative human psychologies," the fear the pet will die, which may have driven the fad. But "a small digital friend that you can take with you" holds "seeds for many other products."
+- **Recombination:** when new technology arrives, combining it with something else creates something new. Ideas: digital pets as a kind of social network, a game-like layer that creates network effects, more user-generated content. (The user-generated content thread continues in topics/product-as-creative-tool.md.)
+
 ## Examples and anecdotes
 - Sign-language learning app (niche, goal-driven).
 - Tamagotchi-style keychain toy, alarm clock (hardware as an addition, not a substitute).
@@ -79,3 +86,5 @@ Every product, digital or not, has to fit into someone's life, so it's competing
 - *[Claude]* **Physical alarm clocks aren't uncrowded** (also raised in chat). Cheap ones are everywhere. What's thin is the *quality* tier, which Hatch Restore and Loftie occupy. The claim should be "few quality competitors," not "few competitors."
 - *[Claude]* **"The market hasn't signaled it wants quality" cuts both ways.** Sometimes that's latent demand waiting for an entrepreneur. Often it means people genuinely won't pay more there. The article needs a way to tell the two apart, or it's survivorship bias again: we only remember the Hatches that found demand.
 - *[Claude]* **There's a sharp, separate angle here: time spent is the wrong metric.** Much of the industry optimizes for engagement hours. Part 3 implies that value per moment, not hours captured, is what people pay for. That's a counter-position worth stating directly.
+- *[Claude]* **"Marketing is differentiation" conflates being different with being noticed** (also raised in chat). Showing up differently gets attention, but that's distribution. Whether the difference is one people care about is the jagged-differentiation question. Keep the two apart.
+- *[Claude]* **"Every gimmick holds a seed" is hindsight-friendly.** After the fact, you can find a seed in anything. The useful version: which part of the gimmick met a real, lasting motivation (portable companionship) and which part was novelty or manipulation (the fear of it dying)? That's a test you can apply before building.

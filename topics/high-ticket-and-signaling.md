@@ -1,7 +1,7 @@
 # High-ticket items, signaling and collections
 
 **Source:** raw/2026-11-24-high-ticket-and-signaling.md
-**Related:** topics/jagged-differentiation.md, topics/fitting-into-someones-life.md
+**Related:** topics/jagged-differentiation.md, topics/fitting-into-someones-life.md, topics/product-as-creative-tool.md
 
 ## Core idea
 Once a product is priced far above its category, it becomes a different product. It's no longer selling utility. It's selling story, craft, exclusivity and the signal of owning it. Value is set by perception: tastemakers buy first and evangelize, third-party validation drives price, and longevity turns perception into trust. In categories that aren't justified by utility, the only ceiling on price is how good the story is and whether the way of doing things is differentiated in a way people care about.

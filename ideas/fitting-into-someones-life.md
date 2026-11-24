@@ -3,7 +3,7 @@
 Alternates: "Show up where other things are not" / "Your product competes with sleep" / "Different time, different budget"
 
 **From:** topics/fitting-into-someones-life.md
-**Status:** early. Three parts of the dump so far.
+**Status:** early. Four parts of the dump so far.
 
 ## Thesis (draft)
 > "Show up in a place where other things are not, and then deliver something that people actually care about." (Natan, part 2)
@@ -20,8 +20,9 @@ Every product has to fit into someone's life. Entertainment fights over one crow
 7. Moments, not hours: value that isn't tied to time spent (watch, alarm clock)
 8. Form factor is differentiation: the alarm clock as an object vs. an app
 9. Underexplored categories as the entrepreneur's job
-10. The catch: niches still have competitors, and goal-driven motivation decays
-11. (Possible link) How this connects to jagged differentiation: where you compete vs. how you stand out
+10. Getting noticed vs. staying: gimmicks, and the seed inside them (Tamagotchi)
+11. The catch: niches still have competitors, and goal-driven motivation decays
+12. (Possible link) How this connects to jagged differentiation: where you compete vs. how you stand out
 
 ## What's missing
 - The fresh angle needs stating outright. "Products compete for time" is familiar; "goal time is a separate budget" is the new part.
