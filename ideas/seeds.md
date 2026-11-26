@@ -104,8 +104,37 @@ Originality ratings are Claude's judgment: **[Fresh]** means I haven't seen it a
 
 ---
 
+## Article D: AI and human art: what AI can't keep
+
+*Seven parts of material, from topics/ai-and-human-art.md. Outline in ideas/ai-and-human-art.md.*
+
+### D1. AI erodes the exact knowledge it can't encode [Fresh]
+- **Claim:** AI keeps the documented layer of a craft. The tacit layer (feel, edge cases, in-the-moment specificity) is passed on only by apprenticeship, and AI removes the market reason to apprentice. So the knowledge most at risk is the knowledge that makes work distinctive.
+- **Why it's non-obvious:** "AI can't do feel" and "AI pulls up the ladder" are each common. Putting them together shows the loss isn't random: it falls on the differentiating layer.
+- **Best example:** Natan's drawing tool (feel AI can't derive) + "what is animation actually like if everyone is just auto-generating animation?"
+- **Needs:** A real field where this already happened.
+- **Source:** topics/ai-and-human-art.md (parts 4, 5, 7, Claude's synthesis). Links to A1 and A4.
+
+### D2. Knowledge-loss cycles run at the speed of technology [Twist]
+- **Claim:** History loses and rediscovers knowledge. What's new is that the cycle speeds up with tech, and rediscovery depends on keepers (the Renaissance relied on texts preserved elsewhere).
+- **Needs:** The Renaissance fact correction, and a modern example.
+- **Source:** topics/ai-and-human-art.md (part 7)
+
+### D3. Perspective lives in a body of work, and AI produces pieces [Twist]
+- **Claim:** You understand an artist across all their paintings, not one. A single AI output can compete with a single human piece. A coherent perspective across many works is where human time compounds.
+- **Needs:** A test: can curating many AI outputs build a body of work?
+- **Source:** topics/ai-and-human-art.md (part 2). Pairs with the track-record point under A5.
+
+### D4. Authorship is the decisions you made [Twist]
+- **Claim:** One-shotting is "Russian roulette": fun, but nothing in it you can communicate or put a spin on. Expression requires staying in the loop.
+- **Source:** topics/ai-and-human-art.md (parts 4–5)
+
+*Left out as familiar:* cheap results re-value the handmade; "it's a capitalism problem"; don't gatekeep taste; the genius/daimon framing (Gilbert's TED talk). The genius framing can open the piece but shouldn't carry it.
+
+---
+
 ## Recommendation: write Article A first
 
-It has the most material, the most original seeds (A1, A2, A4) and an existing outline. Lead with **A1 (the consensus pull)**, use **A2 and A3** as the evidence, and close with **A4 (what it means for craft jobs)**, which answers the question you started with. A5 and C1 can be a final section or a follow-up piece.
+It has the most material, the most original seeds (A1, A2, A4) and an existing outline. Lead with **A1 (the consensus pull)**, use **A2 and A3** as the evidence, and close with **A4 (what it means for craft jobs)**, which answers the question you started with. A5 and C1 can be a final section or a follow-up piece. D1 could also close A (the differentiating layer is the one least likely to be passed on), or stand alone as Article D.
 
 B is the strongest second article, built on B0, B1 and B2. The high-ticket material mostly feeds A5 rather than standing alone.
