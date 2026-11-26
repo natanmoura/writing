@@ -1,7 +1,7 @@
 # The product as a creative tool
 
 **Source:** raw/2026-11-24-product-as-creative-tool.md
-**Related:** topics/fitting-into-someones-life.md, topics/jagged-differentiation.md, topics/high-ticket-and-signaling.md
+**Related:** topics/fitting-into-someones-life.md, topics/jagged-differentiation.md, topics/high-ticket-and-signaling.md, topics/ai-and-human-art.md
 
 ## Core idea
 Part of being a creator now may be building a product through which *users* express themselves. When the act of creating is something people enjoy rather than a chore, the tool becomes the product (Minecraft). Users show up as creators instead of consumers, take ownership, build community, and the obsessed builders evangelize by making things others want to make too.

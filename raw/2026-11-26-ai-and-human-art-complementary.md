@@ -1,8 +1,8 @@
 # AI and human-made art are complementary
 
 **Date:** 2026-11-26
-**Source:** dictated, project chat. Natan said more parts are coming; continuations get appended below as new parts.
-**Topic:** not yet assigned (synthesis held until the dump is complete)
+**Source:** dictated, project chat. Seven messages, appended as parts 1–7.
+**Topic:** topics/ai-and-human-art.md
 
 Verbatim. Section headings were added for navigation; the text is unedited.
 
